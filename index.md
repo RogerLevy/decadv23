@@ -77,7 +77,7 @@ Today I have to finish fixing a synth and put that and a few other pieces of gea
 - game objects
 - asynchronous timers
 
-One tenet I want to follow is to not do anything in a vacuum. Some components will be crafted with awareness of other ones. The rest go in lib\ and should only depend on other lib files (using VFX's REQUIRE).
+One tenet I want to follow is to not do anything in a vacuum. Engine and app components will be crafted with awareness of other ones. The rest go in lib\ and should only depend on other lib files (using VFX's REQUIRE).
 
 # 4
 
@@ -97,6 +97,6 @@ I started by cleaning up the most previous codebase, vfxland3, making it more li
 
 Here are a couple screenshots from around that aforementioned period.
 
-![deadsimple.PNG](media/deadsimple.PNG)
+![deadsimple.PNG](media/deadsimple.PNG.png)
 
-![darkblue january version.JPG](media/darkblue january version.JPG)
+![darkblue january version.JPG.jpg](media/darkblue january version.JPG.jpg)
