@@ -83,7 +83,7 @@ One tenet I want to follow is to not do anything in a vacuum. Engine and app com
 
 (Retrolog)
 
-- Made a Github for vfxland4 - should I keep everything in one repo? I’ll ask [a friend I made recently](https://rabbits.srht.site/decadv/) how they’ve handled this.
+- Made a [Github for vfxland4](https://github.com/rogerlevy/vfxland4) - should I keep everything in one repo? I’ll ask [a friend I met recently](https://rabbits.srht.site/decadv/) how they’ve handled this.
 
 # 1 2 3
 
