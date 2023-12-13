@@ -18,6 +18,20 @@ Milestones should take the form of tools, small games or interactive demonstrati
 
 I’m using [VFXForth](https://vfxforth.com/).
 
+# 13
+
+- Minor fixes and improvements
+
+I've been trying to find some inspiration.  I get flashes of what I'd like to do, but something holds me back.  The idea is something like a "VGA dream", complete with FM-synthesized music.  I won't do it unless there's something of more substance than just an "aesthetic".  I get these random visions, like pixel-tiles of everyday outdoor objects, and semi-abstract architecture with lots of gradients, set before a twilight/sunset backdrop.  Some kind of plain white structure surrounded by water.  Perhaps the tiles could be part of an "exhibit" within the structure, which could be like a "museum".
+
+This will likely end up being a take on the "walking simulator" genre, which isn't a bad thing.  I've been incubating these visions in the back of my mind for months...
+
+# 12
+
+- Reorganized things related to the graphics window to make more sense
+- Started to add an output overlay for the REPL then realized it was too much work for little immediate benefit
+- Added matte border for the game viewport and ability to reposition it (for fullscreen)
+
 # 11
 
 - Moved the log to Github Pages after making some edits and bringing up to date.
