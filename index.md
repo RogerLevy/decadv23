@@ -24,7 +24,9 @@ I’m using [VFXForth](https://vfxforth.com/).
 
 I've been trying to find some inspiration.  I get flashes of what I'd like to do, but something holds me back.  The idea is something like a "VGA dream", complete with FM-synthesized music.  I won't do it unless there's something of more substance than just an "aesthetic".  I get these random visions, like pixel-tiles of everyday outdoor objects, and semi-abstract architecture with lots of gradients, set before a twilight/sunset backdrop.  Some kind of plain white structure surrounded by water.  Perhaps the tiles could be part of an "exhibit" within the structure, which could be like a "museum".
 
-This will likely end up being a take on the "walking simulator" genre, which isn't a bad thing.  I've been incubating these visions in the back of my mind for months...
+This will likely end up being a take on the "walking simulator" genre, which isn't a bad thing. I've been incubating these visions in the back of my mind for months...
+
+I came up with a workflow idea, based around interactive testing and the display list (obj.f). I am going to try doing everything (except assets) with text files, with a mouse-based inspect/move tool and utility words to help out.
 
 # 12
 
