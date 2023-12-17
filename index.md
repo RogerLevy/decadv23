@@ -18,6 +18,18 @@ Milestones should take the form of tools, small games or interactive demonstrati
 
 I’m using [VFXForth](https://vfxforth.com/).
 
+# 14-17
+
+Wow, can't believe I hadn't posted since Wednesday. I thought I only took a day off!
+
+I did at least a tiny bit every day... I think.
+
+The project now has 5 main components.  The Allegro window (window.vfx), the game library (alpha.vfx), the display list (obj.vfx), the GUI (ui.vfx), and the dev environment (shed.vfx).  Of course there are addl supporting files but those are the main parts of the project itself.
+
+The shed started very small but it contains all the stuff that's part of this iteration's workflow, so anything related to loading and testing code, interacting with the display list and extensions to the barebones GUI framework.
+
+This morning I added the ability to drag objects around with the mouse.
+
 # 13
 
 - Minor fixes and improvements
