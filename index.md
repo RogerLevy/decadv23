@@ -18,6 +18,15 @@ Milestones should take the form of tools, small games or interactive demonstrati
 
 I’m using [VFXForth](https://vfxforth.com/).
 
+# 18
+
+Worked on vfxland4 all day.  The shed has become a basic level editor.
+
+- Lots of system bugfixes
+- Serialization and Deserialization of any object and its children
+- Snapping
+- Delete
+
 # 14-17
 
 Wow, can't believe I hadn't posted since Wednesday. I thought I only took a day off!
