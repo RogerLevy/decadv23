@@ -18,6 +18,28 @@ Milestones should take the form of tools, small games or interactive demonstrati
 
 I’m using [VFXForth](https://vfxforth.com/).
 
+# 19-29
+
+Updating the log again.
+
+I made a Christmas card for a couple game designer friends, per a request.
+
+It's on the Github, under the branch "xmas".  There's a snow effect comprising 20,000 snowflake objects, a dialogue box, and a kaiju snowman.
+
+That was delivered on the 25th.  It triggered a false positive on Windows Defender.  Unfortunately I don't think there's anything I can do on my end. Thankfully, the fix for users is easy.
+
+It's interesting to be able to take a snapshot of the stage by serializing it, which includes all 20,000 snowflakes.
+
+On the 26th I fixed a couple minor bugs and cleaned things up.
+
+I had an idea to use the serialization feature to create an animation system, kind of like Flash, so I can add some sledding sprites.
+
+It's not strictly needed and I might just hardcode the animation for the sledders before the end of the year.
+
+Over the past few days I've been thinking about how the animation system would actually work and I think I came up with a good scheme.
+
+I also came up with a rough feature-list for the editor. It'll be cool to ressurect the old "Workspace" concepts. The main difference in this iteration is not caring about memory use, and the very permissive & minimalist approach to OOP.  I don't think it can actually be called OOP, it's more like pretend OOP.  POOP.
+
 # 18
 
 Worked on vfxland4 all day.  The shed has become a basic level editor.
